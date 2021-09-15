@@ -1,0 +1,1 @@
+web: gunicorn BGMproject.wsgi --log-file -

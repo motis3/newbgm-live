@@ -1,0 +1,10 @@
+BGenv/
+BGMproject/
+Procfile
+db.sqlite3
+manage.py
+newBGM/
+requirements.txt
+runtime.txt
+static/
+templates/
